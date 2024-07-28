@@ -12,8 +12,8 @@ The challenge is to build out this QR code component and get it looking as close
 
 ### b) Links
 
-- Solution URL: [Add solution URL here](https://github.com/hieutrantrong21520859MMCL21/FrontEndPractice_Intern_QRCodeComponent)
-- Live Site URL: [Add live site URL here](https://hieutrantrong21520859mmcl21.github.io/FrontEndPractice_Intern_QRCodeComponent/)
+- Solution URL: [my source code here](https://github.com/hieutrantrong21520859MMCL21/FrontEndPractice_Intern_QRCodeComponent)
+- Live Site URL: [my website's URL here](https://hieutrantrong21520859mmcl21.github.io/FrontEndPractice_Intern_QRCodeComponent/)
 
 ## 2. My process
 
