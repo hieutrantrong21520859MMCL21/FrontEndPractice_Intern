@@ -26,6 +26,7 @@ The challenge is to build out this QR code component and get it looking as close
 
 - How to custom the page with CSS selector references.
 - How to add Google fonts to the project.
+- How to ensure responsiveness of a website using Media Query.
 - Some codes I am most proud of (which consist of knowledge I have learned):
 
 ```css
@@ -52,6 +53,14 @@ The challenge is to build out this QR code component and get it looking as close
       text-align: center;
       font-size: 25px;
       margin-top: 10px;
+}
+```
+```css
+/* Media Query */
+@media screen and (max-width: 399px) {
+      .container {
+        width: 80%;
+      }
 }
 ```
 
